@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Explore Near Me",
+  "description": "Discover nearby restaurants, parks, cafes, and attractions with real-time location tracking and interactive maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
