@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Wifi, Signal, Battery } from 'lucide-react';
 
 interface PhoneSimulatorProps {
-  children: React.ReactNode;
+  children?: React.ReactNode;
 }
 
 export default function PhoneSimulator({ children }: PhoneSimulatorProps) {
